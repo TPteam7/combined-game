@@ -8,6 +8,9 @@ The primary goal of this project was to explore how AI-powered chatbots (like Ch
 
 ## 🎮 Play the Games
 
+- **Homescreen**
+  👉 [Play Combined Game](https://tpteam7.github.io/combined-game/)
+
 - **LabLockdown**  
   _Hosted externally due to large file size_  
   👉 [Play LabLockdown](https://codingcando.com/gcu/games/LabLockdown/index.html)
