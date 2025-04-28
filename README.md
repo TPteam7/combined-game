@@ -25,6 +25,7 @@ The primary goal of this project was to explore how AI-powered chatbots (like Ch
 
 ## 📁 Code Repositories
 
+- [LabLockdown Code](https://mygcuedu6961-my.sharepoint.com/:u:/g/personal/dsmical_my_gcu_edu/Eeoi0y7-6yNApOV6-hqSg_ABZg0oDrP3mpNGR3WGkPT4Hg?e=Qz7SIc)
 - [Biology Escape Room GitHub Repo](https://github.com/TPteam7/biology-escape-room)
 - [Astronomy Escape GitHub Repo](https://github.com/TPteam7/space-escape-room)
 
